@@ -7,6 +7,21 @@
         <description>desc Версия</description>
         <pubDate>Sat, 26 Jul 2014 15:20:11 +0000</pubDate>
         <enclosure url="https://rwm-mobile.s3.ap-southeast-1.amazonaws.com/rwm.apk" sparkle:version="2.0" />
+        <sparkle:deltas>
+            <enclosure url="https://rwm-mobile.s3.ap-southeast-1.amazonaws.com/rwm.apk"
+            sparkle:version="2.0"
+            sparkle:deltaFrom="1.0"
+            length="1235"
+            type="application/octet-stream"
+            sparkle:edSignature="..." />
+            
+            <enclosure url="https://rwm-mobile.s3.ap-southeast-1.amazonaws.com/rwm.apk"
+            sparkle:version="2.0"
+            sparkle:deltaFrom="1.0"
+            length="1485"
+            type="application/octet-stream"
+            sparkle:edSignature="..." />
+        </sparkle:deltas>
         <sparkle:tags> <sparkle:criticalUpdate /> </sparkle:tags> 
     </item>
   </channel>
